@@ -115,7 +115,7 @@ SQL         ███████████████░░░░░ 75%
 
 ```text
 🚀 Building Full-Stack MERN Applications
-⚡ Advanced Node.js Backend Development
+⚡ Node.js Backend Development
 📚 Data Structures & Algorithms
 🤖 AI-Powered Web Applications
 🏗️ Scalable Software Architectures
@@ -133,8 +133,7 @@ B --> C[DSA]
 C --> D[Web Development]
 D --> E[MERN Stack]
 E --> F[Backend Engineering]
-F --> G[Artificial Intelligence]
-G --> H[Advanced Software Systems]
+
 ```
 
 ---
@@ -173,5 +172,4 @@ G --> H[Advanced Software Systems]
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-blue?style=for-the-badge)
