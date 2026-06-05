@@ -71,13 +71,6 @@ SQL         ███████████████░░░░░ 75%
 🔹 MongoDB
 🔹 MySQL
 
-### 📚 Core Computer Science Skills
-
-✅ Object-Oriented Programming (OOP)
-✅ Data Structures & Algorithms (DSA)
-✅ Database Design
-✅ Software Engineering Principles
-✅ Problem Solving
 
 ### 🤖 Artificial Intelligence
 
