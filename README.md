@@ -1,12 +1,12 @@
-# 🚀 Zaeem Ul Hassan
+# Zaeem Ul Hassan
 
-# 👨‍💻 Welcome to My Developer Dashboard
+#  Welcome to My Developer Dashboard
 
 ### MERN Stack Developer • Node.js Developer • AI Enthusiast • Problem Solver
 
 ---
 
-## 🎯 Developer Profile
+##  Developer Profile
 
 ```text
 ╔══════════════════════════════════════════════════════╗
