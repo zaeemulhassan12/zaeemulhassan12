@@ -23,21 +23,9 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-> 💡 Passionate Software Engineering student dedicated to building scalable web applications, intelligent AI-powered solutions, and efficient software systems. I enjoy transforming ideas into impactful digital products through clean code, modern technologies, and continuous learning.
-
-🌟 **Highlights**
-
-* 🎓 Software Engineering Student
-* 🌐 MERN Stack Developer
-* ⚡ Node.js & Backend Development Enthusiast
-* 🐍 Python Developer
-* 🤖 Artificial Intelligence Enthusiast
-* 📊 Data Structures & Algorithms Learner
-* 🏗️ Strong Foundation in Object-Oriented Programming (OOP)
-* 💡 Problem Solver & Continuous Learner
-* 🚀 Passionate About Building Real-World Applications
+>  Passionate Software Engineering student dedicated to building scalable web applications, intelligent AI-powered solutions, and efficient software systems. I enjoy transforming ideas into impactful digital products through clean code, modern technologies, and continuous learning.
 
 ---
 
