@@ -37,31 +37,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,js,nodejs,,express,html,css,ts,figma,postgres,git,,docker,cpp,vscode,npm,notion,mongodb,linux,," />
+    <img src="https://skillicons.dev/icons?i=py,django,pytorch,js,nodejs,express,html,css,ts,figma,postgres,git,docker,cpp,vscode,npm,notion,mongodb,linux," />
   </a>
 </p>
 
-
-### 🎨 Frontend Development
-
-🔹 React.js
-🔹 HTML5
-🔹 CSS3
-🔹 Bootstrap
-🔹 Tailwind CSS
-
-### ⚙️ Backend Development
-
-🔹 Node.js
-🔹 Express.js
-🔹 RESTful APIs
-🔹 Fast APIs
-
-### 🗄️ Databases
-
-🔹 MongoDB
-🔹 MySQL
-🔹 postgresql
 
 
 ### 🤖 Artificial Intelligence
