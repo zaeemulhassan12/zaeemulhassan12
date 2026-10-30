@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Stack
 
 ### 💻 Programming Languages
 
