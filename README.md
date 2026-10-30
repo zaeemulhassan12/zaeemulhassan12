@@ -3,6 +3,8 @@
 #  Welcome to My Developer Dashboard
 
 ### MERN Stack Developer • Node.js Developer • AI Enthusiast • Problem Solver
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/discord.gg/7k9TCSjw](https://discord.com/users/722512390389891173)) [![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://www.instagram.com/zaeemulhassan_0?utm_source=ig_web_button_share_sheet&dlrf=ZDNlZDc0MzIxNw==))](https://instagram.com/https://www.instagram.com/maing.007/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.instagram.com/zaeemulhassan_0?utm_source=ig_web_button_share_sheet&dlrf=ZDNlZDc0MzIxNw==) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Zaeemdesign819)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaeemulhassan819@gmail.com)
 
 ---
 
