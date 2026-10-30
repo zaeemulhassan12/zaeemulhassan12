@@ -43,6 +43,15 @@
 
 ### Projects
 ## 🚀 Featured Project
+## 🌐 My Portfolio
+
+Explore my portfolio to see my work, projects, and services.
+
+<p>
+  <a href="https://zaeemdesignpixels.rf.gd/?i=2">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-Explore-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Zaeem Design Pixels portfolio">
+  </a>
+</p>
 
 ### 🎙️ LiveKit Voice Agent with Ollama
 
