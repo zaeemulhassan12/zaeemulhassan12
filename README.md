@@ -16,7 +16,7 @@
 ║ 🎓 Role      : Software Engineering Student         ║
 ║ 🌐 Stack     : MERN Stack Developer                 ║
 ║ ⚡ Backend   : Node.js & Express.js                 ║
-║ 🐍 Language  : Python ,JavaScript                               ║
+║ 🐍 Language  : Python ,JavaScript                   ║
 ║ 🤖 Interest  : Artificial Intelligence              ║
 ║ 📚 Focus     : DSA & OOP                            ║
 ║ 🚀 Goal      : Build Impactful Software Solutions   ║
@@ -41,6 +41,39 @@
   </a>
 </p>
 
+### Projects
+## 🚀 Featured Project
+
+### 🎙️ LiveKit Voice Agent with Ollama
+
+A voice agent built with **LiveKit** and **Ollama models** for AI-powered voice interactions.
+
+<p>
+  <a href="https://github.com/zaeemulhassan12/Ai-Agent">
+    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View the LiveKit Voice Agent project on GitHub">
+  </a>
+</p>
+
+### 💬 Customer Support Agent
+
+An AI-powered agent designed to assist with customer support queries.
+
+<p>
+  <a href="https://github.com/zaeemulhassan12/Customer-Support_agent">
+    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View the Customer Support Agent project on GitHub">
+  </a>
+</p>
+
+### 🧠 LeetCode Problem-Solving Portfolio
+
+A collection of LeetCode problems I’ve solved independently. This repository reflects my practice in breaking down coding challenges and applying data structures and algorithms.
+
+<p>
+  <a href="https://github.com/zaeemulhassan12/Leetcode-Problems-Solving-By-myself">
+    <img src="https://img.shields.io/badge/Explore_My_Solutions-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my LeetCode solutions on GitHub">
+  </a>
+</p>
+
 
 
 ### 🤖 Artificial Intelligence
@@ -49,13 +82,6 @@
 ✅ Machine Learning Basics
 ✅ Prompt Engineering
 ✅ Agentic Agent & Bots
-
-### 🔧 Tools & Platforms
-
-🔹 Git
-🔹 GitHub
-🔹 VS Code
-🔹 Linux
 
 ---
 
