@@ -34,8 +34,12 @@
 ## 🛠️ Tech Arsenal
 
 ### 💻 Programming Languages
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3110f270-ba94-463e-a254-90d9f6098388" />
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,js,nodejs,,express,html,css,ts,figma,postgres,git,,docker,cpp,vscode,npm,notion,mongodb,linux,," />
+  </a>
+</p>
 
 
 ### 🎨 Frontend Development
