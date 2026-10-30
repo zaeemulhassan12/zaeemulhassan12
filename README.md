@@ -4,7 +4,7 @@
 
 ### MERN Stack Developer • Node.js Developer • AI Enthusiast • Problem Solver
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/discord.gg/7k9TCSjw](https://discord.com/users/722512390389891173)) [![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://www.instagram.com/zaeemulhassan_0?utm_source=ig_web_button_share_sheet&dlrf=ZDNlZDc0MzIxNw==))](https://instagram.com/https://www.instagram.com/maing.007/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.instagram.com/zaeemulhassan_0?utm_source=ig_web_button_share_sheet&dlrf=ZDNlZDc0MzIxNw==) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Zaeemdesign819)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaeemulhassan819@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/discord.gg/7k9TCSjw](https://discord.com/users/722512390389891173)) [![Instagram](](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)(https://www.instagram.com/zaeemulhassan_0?utm_source=ig_web_button_share_sheet&dlrf=ZDNlZDc0MzIxNw==))](https://instagram.com/https://www.instagram.com/maing.007/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.instagram.com/zaeemulhassan_0?utm_source=ig_web_button_share_sheet&dlrf=ZDNlZDc0MzIxNw==) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Zaeemdesign819)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaeemulhassan819@gmail.com)
 
 ---
 
@@ -16,7 +16,7 @@
 ║ 🎓 Role      : Software Engineering Student         ║
 ║ 🌐 Stack     : MERN Stack Developer                 ║
 ║ ⚡ Backend   : Node.js & Express.js                 ║
-║ 🐍 Language  : Python                               ║
+║ 🐍 Language  : Python ,JavaScript                               ║
 ║ 🤖 Interest  : Artificial Intelligence              ║
 ║ 📚 Focus     : DSA & OOP                            ║
 ║ 🚀 Goal      : Build Impactful Software Solutions   ║
@@ -34,13 +34,9 @@
 ## 🛠️ Tech Arsenal
 
 ### 💻 Programming Languages
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3110f270-ba94-463e-a254-90d9f6098388" />
 
-```text
-JavaScript  ████████████████████ 95%
-Python      ██████████████████░░ 90%
-C++         ████████████████░░░░ 80%
-SQL         ███████████████░░░░░ 75%
-```
+
 
 ### 🎨 Frontend Development
 
@@ -55,11 +51,13 @@ SQL         ███████████████░░░░░ 75%
 🔹 Node.js
 🔹 Express.js
 🔹 RESTful APIs
+🔹 Fast APIs
 
 ### 🗄️ Databases
 
 🔹 MongoDB
 🔹 MySQL
+🔹 postgresql
 
 
 ### 🤖 Artificial Intelligence
@@ -67,14 +65,13 @@ SQL         ███████████████░░░░░ 75%
 ✅ Artificial Intelligence Fundamentals
 ✅ Machine Learning Basics
 ✅ Prompt Engineering
-✅ AI Application Development
+✅ Agentic Agent & Bots
 
 ### 🔧 Tools & Platforms
 
 🔹 Git
 🔹 GitHub
 🔹 VS Code
-🔹 Postman
 🔹 Linux
 
 ---
