@@ -27,7 +27,9 @@
 
 ## About Me
 
->  Passionate Software Engineering student dedicated to building scalable web applications, intelligent AI-powered solutions, and efficient software systems. I enjoy transforming ideas into impactful digital products through clean code, modern technologies, and continuous learning.
+>  Use this updated version:
+
+> Full-stack developer focused on  building scalable web applications, intelligent AI-powered solutions, and efficient software systems. I enjoy transforming ideas into impactful digital products through clean code, modern technologies, and continuous learning.
 
 ---
 
