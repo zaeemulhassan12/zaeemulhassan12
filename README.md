@@ -114,12 +114,13 @@ A collection of LeetCode problems I’ve solved independently. This repository r
 ## 🎯 Current Focus
 
 ```text
+🌍 Building AI agents with LangChain.
 🚀 Building Full-Stack MERN Applications
 ⚡ Node.js Backend Development
 📚 Data Structures & Algorithms
 🤖 AI-Powered Web Applications
 🏗️ Scalable Software Architectures
-🌍 Open Source Contributions
+
 ```
 
 ---
