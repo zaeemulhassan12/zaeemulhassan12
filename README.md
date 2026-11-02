@@ -35,7 +35,7 @@
 
 ##  Tech Stack
 
-### 💻 Programming Languages
+### 💻 TOOLS
 
 <p align="center">
   <a href="https://skillicons.dev">
