@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,pytorch,js,nodejs,express,html,css,ts,figma,postgres,git,docker,cpp,vscode,npm,notion,mongodb,linux,![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)" />
+    <img src="https://skillicons.dev/icons?i=py,django,pytorch,js,nodejs,express,html,css,ts,figma,postgres,git,docker,cpp,vscode,npm,notion,mongodb,linux,ps,ai,![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)" />
   </a>
 </p>
 
